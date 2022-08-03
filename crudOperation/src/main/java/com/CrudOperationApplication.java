@@ -11,7 +11,7 @@ public class CrudOperationApplication {
 	}
 	
 	/*
-	 * dependenciea ro be added
+	 * dependenciea ro be added  checking push
 	 * 1. spring boot web -> rest api support
 	 * 2. mysql driver
 	 * 3. spring-data-jpa -> to interact with DB (internally uses hibernate for jpa provider)
